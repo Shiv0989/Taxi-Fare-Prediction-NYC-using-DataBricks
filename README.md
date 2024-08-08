@@ -1,4 +1,4 @@
-# New York City Taxi Fare Forecasting
+# New York City Taxi Fare Prediction
 
 ## Introduction
 
